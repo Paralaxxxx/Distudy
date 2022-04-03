@@ -1,0 +1,39 @@
+body{
+    background-color: #9ff5ff;
+}
+.aza{
+    text-align: center;
+    background-color: azure;
+    margin: 15;
+    border: 50;
+    padding: 20;
+    font-family: "proxima-soft", "Proxima Soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
+    letter-spacing: 4
+}
+.miras{text-align:center;
+
+}
+.era{
+    text-align: center;
+    background-color: azure;
+    margin: 10;
+    padding: 10;
+    font-family: "proxima-soft", "Proxima Soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
+    letter-spacing: 0
+
+}
+ol{
+    font-family: "proxima-soft", "Proxima Soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
+}
+.eras{
+    text-align: center;
+ background-color: azure;
+margin: 15;
+border: 50;
+padding: 20;
+font-family: "proxima-soft", "Proxima Soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
+letter-spacing: 7;
+}
+table, th, td {
+    border:1px solid rgb(0, 0, 0);
+  }
